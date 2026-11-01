@@ -47,3 +47,7 @@ To transform sales data into actionable business insights and support data-drive
 
 ## Project Type
 Data Analytics Portfolio Project | Power BI | Sales Analytics
+
+## Dashboard Preview
+
+![Executive Sales Dashboard](Executive_Sales_Dashboard.png)
