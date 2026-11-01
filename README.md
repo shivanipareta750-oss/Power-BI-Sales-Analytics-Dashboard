@@ -40,11 +40,6 @@ To transform sales data into actionable business insights and support data-drive
 - `Executive_Sales_Dashboard.pbix` — Power BI dashboard file
 - `Sales_Data.xlsx` — Excel source dataset (to be uploaded)
 
-## How to Use
-1. Download the `.pbix` file.
-2. Open it using Power BI Desktop.
-3. Explore the dashboard to analyze sales performance and profitability.
-
 ## Project Type
 Data Analytics Portfolio Project | Power BI | Sales Analytics
 
